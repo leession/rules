@@ -2,12 +2,42 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+#-- jinman
+DOMAIN-SUFFIX,18comic.ink
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,jmcomic-zzz.one
+DOMAIN-SUFFIX,jmcomic-zzz.org
+#-- irc
+DOMAIN-SUFFIX,whatnet.org
+#-- buondua
+DOMAIN-SUFFIX,buondua.us
+DOMAIN-SUFFIX,buondua.com
+#-- misskon
+DOMAIN-SUFFIX,misskon.com
+#-- cosplaytele
+DOMAIN-SUFFIX,cosplaytele.com
+#-- hentai
+DOMAIN-SUFFIX,e-hentai.org
+#-- elitebabes
+DOMAIN-SUFFIX,elitebabes.com
+#-- goda
+DOMAIN-SUFFIX,g-mh.online
+#-- manwa
+DOMAIN-SUFFIX,manwafv.cc
+DOMAIN-SUFFIX,manwafe.cc
+DOMAIN-SUFFIX,manwafl.cc
+DOMAIN-SUFFIX,manwatu.cc
+DOMAIN-SUFFIX,manwasu.cc
+DOMAIN-SUFFIX,manwa.me
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,buondua
-DOMAIN-KEYWORD,misskon
-DOMAIN-KEYWORD,cosplaytele
+#-- rouman5
+DOMAIN-KEYWORD,rmcdn
+DOMAIN-KEYWORD,roum
+#-- irc
+DOMAIN-KEYWORD,irc.rizon
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
