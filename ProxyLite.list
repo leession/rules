@@ -2,6 +2,12 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+#-- baka
+DOMAIN-SUFFIX,bakamh.com
+DOMAIN-SUFFIX,bakamh.ru
+DOMAIN-SUFFIX,baka3.me
+DOMAIN-SUFFIX,baka1.my
+DOMAIN-SUFFIX,baka2.de
 #-- jinman
 DOMAIN-SUFFIX,18comic.ink
 DOMAIN-SUFFIX,18comic.vip
